@@ -2,7 +2,7 @@
 GTRI ATAS
 
 This program launches and moves the AR Drone back and forth. 
-It is intended as a simple example for those starting with the AR Drone platform.
+
 */
 #include <ros/ros.h>
 #include <std_msgs/Empty.h>
